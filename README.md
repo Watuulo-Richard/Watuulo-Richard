@@ -1,12 +1,12 @@
 ```console
 $ curl -s https://raw.githubusercontent.com/Watuulo-Richard/Watuulo-Richard/master/hello.sh | sh
 
-__________.__       .__        _____                     .___
-______   __| ____ |  |__    /        ____   ____    __| _/
- |       _/  |/ ___|  |    /   /   /  _  /      / __ | 
- |    |       ___|   Y  /    Y    (  <_> )   |  / /_/ | 
- |____|_  /__|___  >___|  /____|__  /____/|___|  /____ | 
-        /        /     /         /            /      / 
+__          __          _                     _                    _____    _          _                          _ 
+         / /         | |                   | |                  |  __   (_)        | |                        | |
+   /  / /    __ _  | |_   _   _   _   _  | |   ___    ______  | |__) |  _    ___  | |__     __ _   _ __    __| |
+  /  / /    / _` | | __| | | | | | | | | | |  / _   |______| |  _  /  | |  / __| | '_    / _` | | '__|  / _` |
+   /  /    | (_| | | |_  | |_| | | |_| | | | | (_) |          | |    | | | (__  | | | | | (_| | | |    | (_| |
+/  /      __,_|  __|  __,_|  __,_| |_|  ___/           |_|  _ |_|  ___| |_| |_|  __,_| |_|     __,_|
 ├── From Uganda.
 ├── Born on 2000.10.10
 └── Joined Github on 2024.02.17
@@ -33,4 +33,4 @@ $ ls Watuulo-Richard
 └── Databases
     └── MySQL       SQLite      MongoDB         Redis
 ```
-###### This presentation is [updated](https://github.com/Watuulo-Richard/Watuulo-Richard) automatically every 2 hours, most recently on 15/06/2025 15:34:38 ( UTC±2 )
+###### This presentation is [updated](https://github.com/Watuulo-Richard/Watuulo-Richard) automatically every 2 hours, most recently on 15/06/2025 16:27:12 ( UTC±2 )
