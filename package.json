@@ -1,0 +1,26 @@
+{
+  "name": "watuulo-richard",
+  "version": "1.0.0",
+  "description": "```console\r $ curl -s https://raw.githubusercontent.com/Watuulo-Richard/Watuulo-Richard/master/hello.sh | sh",
+  "main": "update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Watuulo-Richard/Watuulo-Richard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Watuulo-Richard/Watuulo-Richard/issues"
+  },
+  "homepage": "https://github.com/Watuulo-Richard/Watuulo-Richard#readme",
+  "dependencies": {
+    "@octokit/core": "^3.6.0",
+    "axios": "^0.24.0",
+    "dotenv": "^16.5.0",
+    "wakatime": "^1.2.0"
+  }
+}
