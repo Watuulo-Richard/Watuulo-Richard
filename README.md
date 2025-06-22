@@ -1,6 +1,12 @@
 ```console
 $ curl -s https://raw.githubusercontent.com/Watuulo-Richard/Watuulo-Richard/master/hello.sh | sh
 
+██████╗ ██╗ ██████╗██╗  ██╗███╗   ███╗ ██████╗ ███╗   ██╗██████╗ 
+██╔══██╗██║██╔════╝██║  ██║████╗ ████║██╔═══██╗████╗  ██║██╔══██╗
+██████╔╝██║██║     ███████║██╔████╔██║██║   ██║██╔██╗ ██║██║  ██║
+██╔══██╗██║██║     ██╔══██║██║╚██╔╝██║██║   ██║██║╚██╗██║██║  ██║
+██║  ██║██║╚██████╗██║  ██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██████╔╝
+╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝
 ├── From Uganda.
 ├── Born on 2000.10.10
 └── Joined Github on 2024.02.17
@@ -27,4 +33,4 @@ $ ls Watuulo-Richard
 └── Databases
     └── MySQL       SQLite      MongoDB         Postgres
 ```
-###### This presentation is [updated](https://github.com/Watuulo-Richard/Watuulo-Richard) automatically every 2 hours, most recently on 22/06/2025 16:06:33 ( UTC±2 )
+###### This presentation is [updated](https://github.com/Watuulo-Richard/Watuulo-Richard) automatically every 2 hours, most recently on 22/06/2025 16:19:25 ( UTC±2 )
