@@ -95,7 +95,7 @@ void (async function main() {
     '│   └── TLDraw      Figma       Discord',
     '│',
     '└── Databases',
-    '    └── MySQL       SQLite      MongoDB         Postgres',
+    '    └── MySQL       SQLite      MongoDB         Postgres         NeonDB',
     '```',
     `###### This presentation is [updated](https://github.com/Watuulo-Richard/Watuulo-Richard) automatically every 2 hours, most recently on ${lastUpdate} ( UTC±2 )`,
   );
