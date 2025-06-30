@@ -102,7 +102,7 @@ void (async function main() {
 
   // ── Update README.md
   const octokit = new Octokit({
-    auth: process.env.GITHUBTOKEN,
+    auth: process.env.GITHUB_TOKEN,
   });
 
   // Fixed: Use Buffer.from instead of new Buffer.from
