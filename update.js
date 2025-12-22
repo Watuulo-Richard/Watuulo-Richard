@@ -101,7 +101,6 @@ void (async function main() {
   );
 
   // ── Update README.md
-  // ── Update README.md
   const octokit = new Octokit({
     auth: process.env.GITHUB_TOKEN,
   });
