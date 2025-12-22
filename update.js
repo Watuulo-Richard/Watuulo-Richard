@@ -36,7 +36,7 @@ void (async function main() {
     if (lang && lang.name.length > maxLangNameLength)
       maxLangNameLength = lang.name.length;
 
-  // If we have hour > 10, we need to add 1 to the max length to avoid the hour to be on the same line as the name
+  /* If we have hour > 10, we need to add 1 to the max length to avoid the hour to be on the same line as the name */
   const hourPrefixed = wakaData.data.languages.some((lang) => lang.hours >= 10);
   const minsPrefixed = wakaData.data.languages.some(
     (lang) => lang.minutes >= 10,
