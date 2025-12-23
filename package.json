@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/Watuulo-Richard/Watuulo-Richard#readme",
   "dependencies": {
-    "@octokit/core": "^3.6.0",
-    "axios": "^0.24.0",
+    "@octokit/core": "^7.0.6",
+    "axios": "^1.13.2",
     "dotenv": "^16.5.0",
-    "wakatime": "^1.2.0"
+    "wakatime": "^1.0.1"
   }
 }
