@@ -45,7 +45,7 @@ void (async function main() {
   for (const language of wakaData.data.languages) {
     if (!language) continue;
 
-    // ── Skip if language is not used more than 1 minute
+    /* ── Skip if language is not used more than 1 minute */
     if (language.total_seconds < 60) continue;
 
     const name = language.name.padStart(maxLangNameLength + 1, ' ');
