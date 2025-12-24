@@ -1,25 +1,16 @@
-// // quick-test.js
 // require('dotenv').config();
-// const axios = require('axios');
+// const { WakaTime } = require('wakatime');
 
 // (async () => {
-//   console.log('Testing token:', process.env.WAKATIMETOKEN);
-  
 //   try {
-//     const response = await axios.get(
-//       'https://wakatime.com/api/v1/users/current',
-//       {
-//         headers: {
-//           Authorization: `Bearer ${process.env.WAKATIMETOKEN}`,
-//         },
-//       }
-//     );
+//     console.log('Testing WakaTime API...');
+//     const waka = new WakaTime(process.env.WAKATIMETOKEN);
+//     const data = await waka.stats('last_7_days');
     
-//     console.log('✅ Token is VALID!');
-//     console.log('User:', response.data.data.display_name);
-//     console.log('Email:', response.data.data.email);
+//     console.log('✅ Success!');
+//     console.log('Total coding time:', data.data.human_readable_total);
+//     console.log('Languages:', data.data.languages.map(l => l.name).join(', '));
 //   } catch (error) {
-//     console.error('❌ Token is INVALID');
-//     console.error('Error:', error.response?.data || error.message);
+//     console.error('❌ Failed:', error.message);
 //   }
 // })();
