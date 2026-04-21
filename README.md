@@ -11,16 +11,16 @@ $ curl -s https://raw.githubusercontent.com/Watuulo-Richard/Watuulo-Richard/mast
 ├── Born on 2000.10.10
 └── Joined Github on 2024.02.17
 
-$ waka stats --user Watuulo-Richard --from 2026-04-13 --to 2026-04-20
+$ waka stats --user Watuulo-Richard --from 2026-04-14 --to 2026-04-21
 
- TypeScript  │  71.61%  ██████████████       21 hrs 02 mins
-         Go  │  11.76%  ██                    3 hrs 27 mins
-     Prisma  │   6.65%  █                     1 hr  57 mins
-      Other  │   4.19%  █                     1 hr  13 mins
-        CSS  │   2.24%                        0 hr  39 mins
-       Bash  │   1.54%                        0 hr  27 mins
- Git Config  │   1.49%                        0 hr  26 mins
-    ~ Total ─┴─────────────────────────────> 28 hrs 9 mins
+ TypeScript  │  80.81%  ████████████████     21 hrs 14 mins
+     Prisma  │   7.61%  ██                    2 hrs 00 min 
+      Other  │   4.98%  █                     1 hr  18 mins
+        CSS  │   2.50%  █                     0 hr  39 mins
+ Git Config  │   1.66%                        0 hr  26 mins
+       Bash  │   1.05%                        0 hr  16 mins
+         Go  │   0.79%                        0 hr  12 mins
+    ~ Total ─┴─────────────────────────────> 24 hrs 58 mins
 
 $ ls Watuulo-Richard
 ├── README.md
@@ -40,4 +40,4 @@ $ ls Watuulo-Richard
 └── Databases
     └── MySQL       SQLite      MongoDB         Postgres         NeonDB
 ```
-###### This presentation is [updated](https://github.com/Watuulo-Richard/Watuulo-Richard) automatically every 2 hours, most recently on 20/04/2026 22:50:56 ( UTC±2 )
+###### This presentation is [updated](https://github.com/Watuulo-Richard/Watuulo-Richard) automatically every 2 hours, most recently on 21/04/2026 03:18:27 ( UTC±2 )
